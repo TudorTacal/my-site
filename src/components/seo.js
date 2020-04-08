@@ -32,6 +32,12 @@ function SEO({ description, lang, meta, title }) {
       htmlAttributes={{
         lang,
       }}
+      link={[
+        {
+          rel: 'stylesheet',
+          href: 'https://fonts.googleapis.com/css?family=Cutive+Mono|Inconsolata'
+        }
+      ]}
       title={title}
       titleTemplate={`%s | ${site.siteMetadata.title}`}
       meta={[
