@@ -18,9 +18,9 @@ const HomePage = () => {
           I'm Tudor Tacal
         </HomePageTitle>
         <HomePageBody>
-          Senior Full Stack Javascript developer at {" "}
-          <StyledLink href="https://www.beamery.com" target="_blank">
-            Beamery
+          Senior Front End developer at {" "}
+          <StyledLink href="https://blockfi.com" target="_blank">
+            BlockFi
           </StyledLink>
           {" "} & certified Scrum Master.
           <br />
